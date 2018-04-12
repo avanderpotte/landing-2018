@@ -1,14 +1,7 @@
-# Ultimate blind test prototype
+# 2018 Landing
 
 ## URL
 [localhost:8080](http://localhost:8080/)
-
-## Local installation
-
-- Create a VHOST (ex: `ultimate-bt.local`) pointing on `/`
-- Using the terminal go to `/`
-- Install [Node.js](https://nodejs.org/)
-- Using the terminal go to `/` and run following commands
 
 ``` bash
 # install dependencies
@@ -36,5 +29,3 @@ alias: {
     Config: path.resolve(__dirname, '../src/scripts/config')
 }
 ```
-
-Let's play bitchies :clown_face:
